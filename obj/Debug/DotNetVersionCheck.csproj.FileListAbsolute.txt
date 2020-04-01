@@ -1,0 +1,6 @@
+E:\Develop\VisualStudio\20_Sandbox\DotNetVersionCheck\bin\Debug\DotNetVersionCheck.exe.config
+E:\Develop\VisualStudio\20_Sandbox\DotNetVersionCheck\bin\Debug\DotNetVersionCheck.exe
+E:\Develop\VisualStudio\20_Sandbox\DotNetVersionCheck\bin\Debug\DotNetVersionCheck.pdb
+E:\Develop\VisualStudio\20_Sandbox\DotNetVersionCheck\obj\Debug\DotNetVersionCheck.csprojAssemblyReference.cache
+E:\Develop\VisualStudio\20_Sandbox\DotNetVersionCheck\obj\Debug\DotNetVersionCheck.exe
+E:\Develop\VisualStudio\20_Sandbox\DotNetVersionCheck\obj\Debug\DotNetVersionCheck.pdb

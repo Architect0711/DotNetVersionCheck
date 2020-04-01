@@ -1,0 +1,5 @@
+E:\Develop\VisualStudio\20_Sandbox\DotNetVersionCheck\bin\Release\DotNetVersionCheck.exe.config
+E:\Develop\VisualStudio\20_Sandbox\DotNetVersionCheck\bin\Release\DotNetVersionCheck.exe
+E:\Develop\VisualStudio\20_Sandbox\DotNetVersionCheck\bin\Release\DotNetVersionCheck.pdb
+E:\Develop\VisualStudio\20_Sandbox\DotNetVersionCheck\obj\Release\DotNetVersionCheck.exe
+E:\Develop\VisualStudio\20_Sandbox\DotNetVersionCheck\obj\Release\DotNetVersionCheck.pdb
